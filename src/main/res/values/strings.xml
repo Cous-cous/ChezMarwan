@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Chez Marwan</string>
+    <string name="title_activity_sauces">Sausages</string>
+    <string name="title_activity_resume">The order sending</string>
+    <string name="title_activity_viande">Meats</string>
+    <string name="title_activity_drink">Drinks</string>
+    <string name="title_activity_drinkmenu">Drinks Menu</string>
+
+    <string name="notSelectedTomatoes">Tomatoes not selected</string>
+    <string name="selectedTomatoes">Tomatoes selected</string>
+
+    <string name="notSelectedOnions">Onions not selected</string>
+    <string name="selectedOnions">Onions selected</string>
+
+    <string name="notSelectedLettuce">Lettuce not selected</string>
+    <string name="selectedLettuce">Lettuce selected</string>
+
+    <string name="notSelectedBread">Bread not selected</string>
+    <string name="selectedBread">Bread selected</string>
+
+    <string name="notSelectedCordon">Cordon-Bleu not selected</string>
+    <string name="selectedCordon">Cordon-Bleu selected</string>
+
+    <string name="notSelectedSteak">Steaks not selected</string>
+    <string name="selectedSteak">Steaks selected</string>
+
+    <string name="notSelectedMerguez">Merguez not selected</string>
+    <string name="selectedMerguez">Merguez selected</string>
+
+    <string name="ingredientsTitle">Choose your ingredients</string>
+    <string name="meatTitle">Choose your meats</string>
+    <string name="ingredients">Ingredients :</string>
+    <string name="drinksButton">This is the drinks menu</string>
+    <string name="beerNotif">The drink menu is ready</string>
+    <string name="beerList">Drink Menu</string>
+
+
+    <string name="nextButton">Next</string>
+    <string name="sendButton">Send</string>
+
+</resources>

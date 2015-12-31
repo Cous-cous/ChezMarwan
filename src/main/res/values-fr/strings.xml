@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chez Marwan</string>
+    <string name="title_activity_sauces">Sauces</string>
+    <string name="title_activity_resume">Envoi de la commande</string>
+    <string name="title_activity_viande">Viandes</string>
+    <string name="title_activity_drink">Boissons</string>
+    <string name="title_activity_drinkmenu">Carte des boissons</string>
+
+    <string name="notSelectedTomatoes">Tomates non sélectionnées</string>
+    <string name="selectedTomatoes">Tomates sélectionnées</string>
+
+    <string name="notSelectedOnions">Oignons non sélectionnées</string>
+    <string name="selectedOnions">Oignons sélectionnées</string>
+
+    <string name="notSelectedLettuce">Salade non sélectionnée</string>
+    <string name="selectedLettuce">Salade sélectionnée</string>
+
+    <string name="notSelectedBread">Pain non sélectionné</string>
+    <string name="selectedBread">Pain sélectionné</string>
+
+    <string name="notSelectedCordon">Cordon-Bleu non sélectionné</string>
+    <string name="selectedCordon">Cordon-Bleu sélectionné</string>
+
+    <string name="notSelectedSteak">Steaks non sélectionnés</string>
+    <string name="selectedSteak">Steaks sélectionnés</string>
+
+    <string name="notSelectedMerguez">Merguez non sélectionnées</string>
+    <string name="selectedMerguez">Merguez sélectionnées</string>
+
+    <string name="ingredientsTitle">Choisissez vos ingrédients</string>
+    <string name="meatTitle">Choisissez votre viande</string>
+    <string name="ingredients">Ingrédients :</string>
+    <string name="drinksButton">Voici la carte des boissons</string>
+    <string name="beerNotif">La carte est prête</string>
+    <string name="beerList">La carte de boissons</string>
+
+
+    <string name="nextButton">Suivant</string>
+    <string name="sendButton">Envoyer</string>
+
+</resources>

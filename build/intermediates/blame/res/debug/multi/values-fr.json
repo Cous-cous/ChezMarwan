@@ -1,0 +1,926 @@
+[
+    {
+        "outputFile": "/Users/samikartit/Desktop/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 110,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 107,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 122,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 114,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 110,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 81,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 105,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 129,
+                    "endOffset": 986
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 991,
+                    "endColumn": 85,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 109,
+                    "endOffset": 1182
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1187,
+                    "endColumn": 111,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 102,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 110,
+                    "endOffset": 1508
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1513,
+                    "endColumn": 106,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endColumn": 106,
+                    "endOffset": 1722
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1727,
+                    "endColumn": 121,
+                    "endOffset": 1844
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1849,
+                    "endColumn": 98,
+                    "endOffset": 1943
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1948,
+                    "endColumn": 48,
+                    "endOffset": 1992
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1997,
+                    "endColumn": 57,
+                    "endOffset": 2050
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2055,
+                    "endColumn": 56,
+                    "endOffset": 2107
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2112,
+                    "endColumn": 200,
+                    "endOffset": 2308
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2313,
+                    "endColumn": 210,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2524,
+                    "endColumn": 117,
+                    "endOffset": 2637
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2642,
+                    "endColumn": 288,
+                    "endOffset": 2926
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2931,
+                    "endColumn": 128,
+                    "endOffset": 3055
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3060,
+                    "endColumn": 211,
+                    "endOffset": 3267
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3272,
+                    "endColumn": 130,
+                    "endOffset": 3398
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3403,
+                    "endColumn": 196,
+                    "endOffset": 3595
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3600,
+                    "endColumn": 131,
+                    "endOffset": 3727
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3732,
+                    "endColumn": 236,
+                    "endOffset": 3964
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3969,
+                    "endColumn": 235,
+                    "endOffset": 4200
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4205,
+                    "endColumn": 132,
+                    "endOffset": 4333
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4338,
+                    "endColumn": 195,
+                    "endOffset": 4529
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4534,
+                    "endColumn": 121,
+                    "endOffset": 4651
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4656,
+                    "endColumn": 170,
+                    "endOffset": 4822
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4827,
+                    "endColumn": 192,
+                    "endOffset": 5015
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5020,
+                    "endColumn": 119,
+                    "endOffset": 5135
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5140,
+                    "endColumn": 182,
+                    "endOffset": 5318
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5323,
+                    "endColumn": 142,
+                    "endOffset": 5461
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5466,
+                    "endColumn": 187,
+                    "endOffset": 5649
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5654,
+                    "endColumn": 128,
+                    "endOffset": 5778
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5783,
+                    "endColumn": 147,
+                    "endOffset": 5926
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5931,
+                    "endColumn": 275,
+                    "endOffset": 6202
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 6207,
+                    "endColumn": 124,
+                    "endOffset": 6327
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6332,
+                    "endColumn": 113,
+                    "endOffset": 6441
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6446,
+                    "endColumn": 215,
+                    "endOffset": 6657
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6662,
+                    "endColumn": 137,
+                    "endOffset": 6795
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6800,
+                    "endColumn": 218,
+                    "endOffset": 7014
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 7019,
+                    "endColumn": 136,
+                    "endOffset": 7151
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 7156,
+                    "endColumn": 101,
+                    "endOffset": 7253
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 7258,
+                    "endColumn": 68,
+                    "endOffset": 7322
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 7327,
+                    "endColumn": 53,
+                    "endOffset": 7376
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 7381,
+                    "endColumn": 71,
+                    "endOffset": 7448
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 7453,
+                    "endColumn": 61,
+                    "endOffset": 7510
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 7515,
+                    "endColumn": 46,
+                    "endOffset": 7557
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 7562,
+                    "endColumn": 65,
+                    "endOffset": 7623
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 7628,
+                    "endColumn": 73,
+                    "endOffset": 7697
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 7702,
+                    "endColumn": 70,
+                    "endOffset": 7768
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7773,
+                    "endColumn": 72,
+                    "endOffset": 7841
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7846,
+                    "endColumn": 71,
+                    "endOffset": 7913
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7918,
+                    "endColumn": 68,
+                    "endOffset": 7982
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7987,
+                    "endColumn": 73,
+                    "endOffset": 8056
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 8061,
+                    "endColumn": 58,
+                    "endOffset": 8115
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 8120,
+                    "endColumn": 66,
+                    "endOffset": 8182
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 8187,
+                    "endColumn": 63,
+                    "endOffset": 8246
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 8251,
+                    "endColumn": 65,
+                    "endOffset": 8312
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 8317,
+                    "endColumn": 64,
+                    "endOffset": 8377
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 8382,
+                    "endColumn": 61,
+                    "endOffset": 8439
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 8444,
+                    "endColumn": 66,
+                    "endOffset": 8506
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 8511,
+                    "endColumn": 46,
+                    "endOffset": 8553
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8558,
+                    "endColumn": 100,
+                    "endOffset": 8654
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8659,
+                    "endColumn": 57,
+                    "endOffset": 8712
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8717,
+                    "endColumn": 71,
+                    "endOffset": 8784
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8789,
+                    "endColumn": 70,
+                    "endOffset": 8855
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 70,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8860,
+                    "endColumn": 56,
+                    "endOffset": 8912
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8917,
+                    "endColumn": 57,
+                    "endOffset": 8970
+                },
+                "from": {
+                    "file": "/Users/samikartit/Desktop/app/src/main/res/values-fr/strings.xml"
+                }
+            }
+        ]
+    }
+]
