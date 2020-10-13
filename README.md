@@ -1,6 +1,6 @@
 # ChezMarwan
 README de l’application :
-Voici le projet de programmation mobile de Alexandre Martini et Sami Kartit
+Voici le projet de programmation mobile
 « Chez Marwan »
 
 Bienvenue dans l’application « Chez Marwan ».
